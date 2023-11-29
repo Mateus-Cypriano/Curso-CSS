@@ -1,0 +1,11 @@
+#titulo-principal{
+	position: absolute;
+	top: 0;
+	left: 300px;
+}
+
+#pai{
+	position: relative;
+	width: 250px;
+	height: 250px;
+}

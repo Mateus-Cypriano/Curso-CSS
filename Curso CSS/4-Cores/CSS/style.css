@@ -1,0 +1,18 @@
+h1{
+	color: blue;
+	font-size: 60px;
+}
+
+.paragrafo{
+	color:#FFA083;
+	background-color:lightblue;
+}
+
+#segundo-titulo{
+	color: rgb(0,120,120);
+}
+
+.box .paragrafo-box{
+	color: #A30101;
+	font-weight: bold;
+}

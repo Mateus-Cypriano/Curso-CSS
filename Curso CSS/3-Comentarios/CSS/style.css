@@ -1,0 +1,19 @@
+/* Este é o primeiro comentario */
+h1{
+	color: blue;
+	font-size: 60px;
+}
+
+.paragrafo{
+	color:green;
+	background-color:lightblue;
+}
+
+#segundo-titulo{
+	color: red;
+}
+
+.box .paragrafo-box{
+	color: purple;
+	font-weight: bold;
+}

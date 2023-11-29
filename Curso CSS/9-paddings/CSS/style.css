@@ -1,0 +1,10 @@
+#titulo-principal{
+	border: 2px solid #000;
+	padding: 25px;
+}
+
+.paragrafo-box{
+	border: 2px solid black;
+	padding: 25px 10px 10px 25px;
+	width: fit-content;
+}
